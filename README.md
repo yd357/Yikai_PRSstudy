@@ -1,1 +1,2 @@
-# PRS study tutorial of Yikai, please see Wiki for my tutorials. 
+# PRS study tutorial 
+## Please see Wiki for my tutorials. 
